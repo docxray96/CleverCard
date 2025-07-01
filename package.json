@@ -53,5 +53,8 @@
     "@babel/core": "^7.25.2",
     "@types/react": "~18.2.79",
     "typescript": "~5.8.3"
+  },
+  "overrides": {
+    "@types/react": "~18.2.79"
   }
 }
